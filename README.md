@@ -10,9 +10,11 @@ Dataset obtained from Kaggle.
 
 ## Key Findings
 
-* Gender and wealth had a significant impact on the survival of the passengers.
-* Females on first class had the highest survival rate of around 97%
-* Males  on third class had the lowest survival rate of around 13$
+- Women had significantly higher survival rates than men (~70% vs ~20%)
+- Higher passenger class was associated with higher survival
+- Fare and class both indicate socioeconomic status, which influenced survival
+- First-class women had the highest survival rate (~97%)
+- Third-class men had the lowest survival rate (~13%)
 
 ## Tools Used
 
